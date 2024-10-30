@@ -20,7 +20,7 @@ This project is a PHP-based user authentication system that allows users to regi
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/user-authentication-system.git
+   git clone https://github.com/serohant/user-authentication-system.git
    cd user-authentication-system
    ```
 2. Navigate to the project directory:
